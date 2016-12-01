@@ -10,8 +10,7 @@ CENTRAL_LAS_VEGAS = [36.114679, -115.172834]  # Center of 'The Strip' as specifi
 
 def calculate_distance(lat, long):
     """
-    Distance is defined as the diagonal distance between point (x,y) and (a,b).
-    To calculate distance, d, from lat/long (x,y), (a,b), I use a simple Pythagoras theorem.
+    Distance is defined as the euclidean distance between point (x,y) and (a,b).
     This is sufficient for this purpose as I am only looking at one city and do not need to take into account e.g. earth's curvature
     As I am unfamiliar with the road network and transportation links, only absolute distance will be used.
     d = sqrt( |a - x|^2 + |b - y|^2 )
