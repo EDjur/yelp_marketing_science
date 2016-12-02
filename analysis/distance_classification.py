@@ -1,11 +1,7 @@
 from util.data_io import load_csv, export_csv
 import numpy as np
-import math
 
 CENTRAL_LAS_VEGAS = [36.114679, -115.172834]  # Center of 'The Strip' as specified by Google Maps
-
-
-
 
 
 def calculate_distance(lat, long):
@@ -19,7 +15,7 @@ def calculate_distance(lat, long):
     :return: the absolute Pythagoras distance from "CENTRAL_LAS_VEGAS" as defined above
     """
 
-    distance = round(np.sqrt(abs(lat - CENTRAL_LAS_VEGAS[0])**2 + abs(long - CENTRAL_LAS_VEGAS[1])**2) * 100, 0)
+    distance = round(np.sqrt(abs(lat - CENTRAL_LAS_VEGAS[0]) ** 2 + abs(long - CENTRAL_LAS_VEGAS[1]) ** 2) * 100, 0)
     return distance
 
 
