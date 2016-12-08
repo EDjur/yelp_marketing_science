@@ -5,7 +5,7 @@ pd.set_option('display.width', 1000)
 
 
 def subset_columns(df):
-    colnames = read_colnames_txtfile("../project_data/yelp_business_revelant_colnames")
+    colnames = read_colnames_txtfile("../project_data/yelp_business_revelant_colnames.txt")
     new_df = df.select(lambda col: col in colnames, axis=1)
     return new_df
 

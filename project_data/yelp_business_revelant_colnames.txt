@@ -1,0 +1,34 @@
+index
+hours.Thursday.open
+hours.Friday.open
+attributes.Good For.latenight
+attributes.Parking.lot
+business_id
+attributes.Ambience.touristy
+hours.Tuesday.open
+attributes.Good For.brunch
+categories
+hours.Monday.open
+name
+attributes.Ambience.hipster
+attributes.Price Range
+review_count
+hours.Friday.close
+full_address
+hours.Thursday.close
+hours.Saturday.open
+hours.Wednesday.close
+open
+city
+stars
+latitude
+longitude
+hours.Monday.close
+hours.Tuesday.close
+hours.Saturday.close
+hours.Sunday.open
+hours.Sunday.close
+hours.Wednesday.open
+attributes.Noise Level
+neighborhoods
+attributes.Ambience.romantic

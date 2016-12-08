@@ -1,0 +1,99 @@
+index
+attributes.Ambience.divey
+attributes.Dietary Restrictions.vegan
+attributes.Happy Hour
+hours.Thursday.open
+attributes.Order at Counter
+attributes.Hair Types Specialized In.africanamerican
+attributes.Hair Types Specialized In.kids
+attributes.BYOB
+hours.Friday.open
+attributes.Good For.latenight
+attributes.Outdoor Seating
+attributes.Alcohol
+attributes.Ambience.classy
+attributes.By Appointment Only
+attributes.Parking.lot
+business_id
+attributes.Ambience.touristy
+attributes.Corkage
+hours.Tuesday.open
+attributes.Good For.brunch
+categories
+attributes.Waiter Service
+hours.Monday.open
+name
+attributes.Parking.street
+attributes.Ambience.hipster
+attributes.BYOB/Corkage
+attributes.Hair Types Specialized In.straightperms
+attributes.Music.live
+attributes.Dietary Restrictions.dairy-free
+attributes.Music.background_music
+attributes.Price Range
+attributes.Good For.breakfast
+attributes.Parking.garage
+attributes.Music.karaoke
+attributes.Good For Dancing
+review_count
+attributes.Hair Types Specialized In.asian
+state
+attributes.Accepts Credit Cards
+hours.Friday.close
+attributes.Good For.lunch
+attributes.Parking.valet
+attributes.Take-out
+full_address
+hours.Thursday.close
+attributes.Hair Types Specialized In.coloring
+attributes.Good For.dessert
+attributes.Music.video
+attributes.Dietary Restrictions.halal
+attributes.Takes Reservations
+hours.Saturday.open
+attributes.Ages Allowed
+attributes.Ambience.trendy
+attributes.Delivery
+hours.Wednesday.close
+attributes.Wi-Fi
+open
+city
+attributes.Wheelchair Accessible
+attributes.Dietary Restrictions.gluten-free
+stars
+attributes.Dietary Restrictions.kosher
+type
+attributes.Caters
+attributes.Ambience.intimate
+latitude
+attributes.Good For.dinner
+attributes.Coat Check
+longitude
+hours.Monday.close
+attributes.Hair Types Specialized In.extensions
+hours.Tuesday.close
+hours.Saturday.close
+attributes.Good for Kids
+attributes.Parking.validated
+hours.Sunday.open
+attributes.Accepts Insurance
+attributes.Music.dj
+attributes.Dietary Restrictions.soy-free
+attributes.Has TV
+hours.Sunday.close
+attributes.Ambience.casual
+attributes.Hair Types Specialized In.perms
+attributes.Dogs Allowed
+attributes.Drive-Thru
+attributes.Dietary Restrictions.vegetarian
+hours.Wednesday.open
+attributes.Noise Level
+attributes.Smoking
+attributes.Attire
+attributes.Hair Types Specialized In.curly
+attributes.Good For Groups
+neighborhoods
+attributes.Open 24 Hours
+attributes.Ambience.romantic
+attributes.Music.jukebox
+attributes.Ambience.upscale
